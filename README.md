@@ -1,1 +1,1 @@
-# terraform_aks_cluster
+# terraform_k8s_cluster
